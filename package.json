@@ -67,5 +67,8 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "scripts": {
+    "build": "grunt build compress"
+  }
 }
